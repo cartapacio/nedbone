@@ -1,0 +1,25 @@
+{
+  "name": "nedbone",
+  "version": "0.0.0",
+  "description": "a plugin for backbone to sync with nedb databases",
+  "main": "src/index.js",
+  "scripts": {
+    "test": ""
+  },
+  "keywords": [
+    "nedb",
+    "backbone"
+  ],
+  "author": {
+    "name": "cartapacio",
+    "email": "zea@cartapac.io"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "*"
+  },
+  "devDependencies": {
+    "backbone": "^1.1.2",
+    "nedb": "^0.10.4"
+  }
+}
